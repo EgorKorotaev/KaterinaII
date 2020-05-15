@@ -1,0 +1,39 @@
+[
+  {
+    "day": 1,
+    "month": "ЯНВАРЬ",
+    "weekday": "Среда",
+    "event": [
+      {
+        "time": 11.00,
+        "place": "при дворе ЕЯ Императорго Величества",
+        "celebration": "Новый год",
+        "description": "духовником отправлен был собором благодарный молебень",
+        "aGuestList": [
+          {
+            "title": "",
+            "surname": "",
+            "name": "",
+            "patronymic": "",
+            "sequenceNumber": ""
+          }
+        ]
+      },
+      {
+        "time": 0,
+        "place": "",
+        "celebration": "",
+        "description": "",
+        "aGuestList": [
+          {
+            "title": "",
+            "surname": "",
+            "name": "",
+            "patronymic": "",
+            "sequenceNumber": ""
+          }
+        ]
+      }
+    ]
+  }
+]
